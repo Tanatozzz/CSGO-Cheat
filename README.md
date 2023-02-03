@@ -1,8 +1,8 @@
 # CSGO-Cheat
 
-## 3D box esp
+## Чит
 
-All code for 3dbox esp in Form1.cs
-
-![image](https://user-images.githubusercontent.com/53102064/162235590-bc643d23-f64c-4536-a97c-b927596d4c48.png)
+В проекте присутствуют не используемые куски кода, и в целом много костылей, весь основной функционал Wallhack'a и AIM'a находятся в Form1.cs
+Видеодемонстрация работы чита:
+https://youtu.be/5r8ThUh5aAk
 
